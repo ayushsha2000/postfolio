@@ -254,7 +254,7 @@ class _HomePageState extends State<HomePage> {
                                     height: 6.0,
                                   ),
                                   CustomText(
-                                    text: "Ayush Sha.",
+                                    text: "Ayush.",
                                     textsize: 68.0,
                                     color: const Color(0xffCCD6F6),
                                     fontWeight: FontWeight.w900,
